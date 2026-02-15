@@ -1,0 +1,4 @@
+# Here is the list of external libraries used in the provided code:
+
+matplotlib
+limma
